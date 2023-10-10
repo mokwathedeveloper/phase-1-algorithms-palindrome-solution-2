@@ -13,7 +13,7 @@ function isPalindrome(word) {
     // Move pointers
     start++;
     end--;
-  }
+  } 
 
   // If the loop completes, the word is a palindrome
   return true;
